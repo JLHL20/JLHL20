@@ -12,9 +12,16 @@ I am a software engineer passionate about merging creativity with logic. I speci
 - 👯 **Looking to collaborate on:** AI-driven productivity tools
 - ⚡ **Highlight:** I leveraged AI to redesign training modules for my team at Chipotle, increasing engagement and streamlining the onboarding process.
 
-**Languages:** Java, Python, Swift
-
-**Tools:** GitHub Copilot, Git, Canva
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
