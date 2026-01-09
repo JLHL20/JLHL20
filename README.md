@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9c6f04fd-07ea-4d15-8baf-a5ca44eedc0d" alt="J4o" width="1000" height="300"/>
+<img src="./Mariojeje.gif" alt="Mario Coding" width="1000" height="400"/>
 
 
 <h1 align="center">Hello World I am Jose 👋</h1>
