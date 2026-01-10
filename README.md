@@ -1,4 +1,4 @@
-<img src="./Mariojeje.gif" alt="Mario Coding" width="1000" height="400"/>
+<img src="./Mariojeje.gif" alt="Mario Coding" width="1000" height="4000"/>
 
 
 <h1 align="center">Hello World I am Jose 👋</h1>
